@@ -40,7 +40,4 @@ You can easily embed this into your GitHub Pages, but PHP logic won’t run on G
 
 Enjoy the game!
 
-```
 
-Jika ingin, saya juga bisa bantu langsung buatkan file `save_score.php` dan struktur repositori dalam bentuk ZIP agar tinggal unduh. Mau saya bantu juga?
-```
