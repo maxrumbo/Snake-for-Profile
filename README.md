@@ -1,3 +1,4 @@
+---
 # 🐍 Snake for Profile
 
 A simple neon-themed Snake Game built with HTML, CSS, JavaScript, and PHP. This project is designed to be used as a fun interactive element for personal portfolio pages or GitHub profile sites.
